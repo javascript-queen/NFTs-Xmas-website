@@ -74,13 +74,13 @@ header, section, footer {
 }
 
 header {
-  background-image: url(images/glitter.png);
+  background-image: url("images/glitter.png");
   background-size: contain;
   text-align: center;
 }
 
 .section-two {
-  background-image: url(images/glitter.png);
+  background-image: url("images/glitter.png");
   background-repeat: no-repeat;
   background-size: cover;
   
